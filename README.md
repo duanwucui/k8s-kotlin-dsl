@@ -5,7 +5,7 @@
 
 ![screencast](demo.gif)
 
-test 2
+test 3
 
 ## Usage
 
